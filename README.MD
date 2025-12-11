@@ -4,14 +4,14 @@
 
 # 👋 Hi, I'm Sidharth Vangapally
 
-### Senior Devops Engineer @ Rocket 
+### Senior DevOps Engineer @ Rocket 
 🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | CI/CD expert
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sidharth-v-13169316a/)
 [![Gmail](https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?logo=gmail&style=flat)](mailto:sidharthsv18@gmail.com)
 
 # 💫 About Me:
-As an experienced DevOps Engineer, I bring a robust blend of hands-on expertise in cloud infrastructure, automation, and continuous integration/continuous deployment (CI/CD) pipelines. My background includes designing, implementing, and managing scalable, secure, and reliable cloud environments on platforms such as AWS, Azure, and GCP. I have a proven track record of leveraging tools like Docker, Kubernetes, Terraform, and Ansible to streamline operations and enhance system efficiency.<br><br>I thrive in dynamic, fast-paced environments where my problem-solving skills and attention to detail can shine. My experience spans managing bare-metal infrastructure, executing complex cloud migrations, and employing monitoring and logging tools like Prometheus, Grafana, and ELK stack to ensure system health and performance.<br><br>Passionate about technology and continuous learning, I am dedicated to staying ahead of industry trends and best practices. Whether leading customer discussions, aligning technology solutions with business objectives, or mentoring peers, I am committed to driving innovation and delivering high-quality results.<br><br>Let's connect and explore how I can contribute to your organization's success with my technical expertise and strategic vision.
+As an experienced DevOps Engineer, I bring a robust blend of hands-on expertise in cloud infrastructure, automation, and continuous integration/continuous deployment (CI/CD) pipelines. My background includes designing, implementing, and managing scalable, secure, and reliable cloud environments on platforms such as AWS, Azure, and GCP. I have a proven track record of leveraging tools like Docker, Kubernetes, Terraform, and Ansible to streamline operations and enhance system efficiency.<br><br>I thrive in dynamic, fast-paced environments where my problem-solving skills and attention to detail can shine. My experience spans managing bare-metal infrastructure, executing complex cloud migrations, and employing monitoring and logging tools like NewRelic, Splunk, and Dynatrace to ensure system health and performance.<br><br>Passionate about technology and continuous learning, I am dedicated to staying ahead of industry trends and best practices. Whether leading customer discussions, aligning technology solutions with business objectives, or mentoring peers, I am committed to driving innovation and delivering high-quality results.<br><br>Let's connect and explore how I can contribute to your organization's success with my technical expertise and strategic vision.
 
 ---
 
