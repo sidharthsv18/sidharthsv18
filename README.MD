@@ -96,11 +96,6 @@ As an experienced DevOps Engineer, I bring a robust blend of hands-on expertise 
 
 Thanks for visiting!
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sidharthsv18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sidharthsv18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthsv18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=sidharthsv18&icon=0&color=2)](https://visitcount.itsvg.in)
 
