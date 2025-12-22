@@ -7,7 +7,7 @@
 ### Senior DevOps Engineer @ Rocket 
 🚀 DevOps • SRE • Cloud Engineer | AWS & Azure | CI/CD | Kubernetes | Terraform | CI/CD expert
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sidharth-v-13169316a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/sidharth-vangapally/)
 [![Gmail](https://img.shields.io/badge/Email-sidharthsv18@gmail.com-red?logo=gmail&style=flat)](mailto:sidharthsv18@gmail.com)
 
 # 💫 About Me:
@@ -42,7 +42,7 @@ As an experienced DevOps Engineer, I bring a robust blend of hands-on expertise 
 - 📈 Ensure observability and performance with **Splunk**, **Dynatrace**, **Prometheus**, and **NewRelic**, minimizing downtime
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidharth-v-13169316a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sidharthsv18@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidharth-vangapally/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sidharthsv18@gmail.com) 
 
 ---
 
